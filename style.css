@@ -1,0 +1,26 @@
+.container{
+    background-image: url(img/logo.svg);
+    
+}
+
+.autore{
+    margin: 0;
+    color:grey;
+}
+
+.nome-autore{
+    color:deepskyblue;
+    font-size: 18px;
+}
+
+.data{
+    color: grey;
+    margin: 0;
+    font-size: 12px;
+}
+
+h6{
+    font-weight: 100;
+    margin: 0;
+}
+
